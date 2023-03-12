@@ -77,7 +77,8 @@ h2   {
 .Secondary_Background {
     overflow: hidden;
     border-radius: 25px;
-    
+    height: 400px;
+    width: 100%;
 }
 
 /* Image for the product 1 on homepage*/
